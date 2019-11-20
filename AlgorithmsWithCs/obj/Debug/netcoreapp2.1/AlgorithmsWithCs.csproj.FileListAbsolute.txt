@@ -1,0 +1,11 @@
+D:\code\LearnAlgorithms\AlgorithmsWithCs\bin\Debug\netcoreapp2.1\AlgorithmsWithCs.deps.json
+D:\code\LearnAlgorithms\AlgorithmsWithCs\bin\Debug\netcoreapp2.1\AlgorithmsWithCs.runtimeconfig.json
+D:\code\LearnAlgorithms\AlgorithmsWithCs\bin\Debug\netcoreapp2.1\AlgorithmsWithCs.runtimeconfig.dev.json
+D:\code\LearnAlgorithms\AlgorithmsWithCs\bin\Debug\netcoreapp2.1\AlgorithmsWithCs.dll
+D:\code\LearnAlgorithms\AlgorithmsWithCs\bin\Debug\netcoreapp2.1\AlgorithmsWithCs.pdb
+D:\code\LearnAlgorithms\AlgorithmsWithCs\obj\Debug\netcoreapp2.1\AlgorithmsWithCs.csprojAssemblyReference.cache
+D:\code\LearnAlgorithms\AlgorithmsWithCs\obj\Debug\netcoreapp2.1\AlgorithmsWithCs.csproj.CoreCompileInputs.cache
+D:\code\LearnAlgorithms\AlgorithmsWithCs\obj\Debug\netcoreapp2.1\AlgorithmsWithCs.AssemblyInfoInputs.cache
+D:\code\LearnAlgorithms\AlgorithmsWithCs\obj\Debug\netcoreapp2.1\AlgorithmsWithCs.AssemblyInfo.cs
+D:\code\LearnAlgorithms\AlgorithmsWithCs\obj\Debug\netcoreapp2.1\AlgorithmsWithCs.dll
+D:\code\LearnAlgorithms\AlgorithmsWithCs\obj\Debug\netcoreapp2.1\AlgorithmsWithCs.pdb

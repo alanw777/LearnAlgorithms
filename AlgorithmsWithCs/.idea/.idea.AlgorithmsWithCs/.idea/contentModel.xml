@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\wp\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\wp\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AlgorithmsWithCs.-1416145517.00" t="ExcludeRecursive" />
+    <e p="D:\code\LearnAlgorithms\AlgorithmsWithCs" t="IncludeRecursive">
+      <e p="AlgorithmsWithCs.csproj" t="IncludeRecursive" />
+      <e p="AlgorithmsWithCs.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="AlgorithmsWithCs.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Utils.cs" t="Include" />
+    </e>
+  </component>
+</project>

@@ -6,7 +6,7 @@ namespace AlgorithmsWithCs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Utils.Log("Hello World!");
         }
     }
 }
