@@ -15,18 +15,22 @@
     <setting file="file://$PROJECT_DIR$/UnionFind/QuickUnionUF.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/UnionFind/QuickFindUF.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/UnionFind/UFTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/BinarySearch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/ThreeSum.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Utils.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Utils.cs" />
-        <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/UnionFind/UFTest.cs" />
         <option value="$PROJECT_DIR$/UnionFind/QuickUnionUF.cs" />
         <option value="$PROJECT_DIR$/UnionFind/QuickFindUF.cs" />
         <option value="$PROJECT_DIR$/UnionFind/WeightedQU.cs" />
         <option value="$PROJECT_DIR$/UnionFind/WeightedQUPathCompress.cs" />
+        <option value="$PROJECT_DIR$/Misc/BinarySearch.cs" />
+        <option value="$PROJECT_DIR$/Misc/ThreeSum.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
       </list>
     </option>
   </component>
@@ -75,6 +79,8 @@
   <component name="WindowStateProjectService">
     <state x="705" y="237" key="#Default" />
     <state x="705" y="237" key="#Default/1920.1080" />
+    <state x="743" y="190" key="FileChooserDialogImpl" />
+    <state x="743" y="190" key="FileChooserDialogImpl/1920.1080" />
     <state width="1921" height="360" key="GridCell.Tab.0.bottom" />
     <state width="1921" height="360" key="GridCell.Tab.0.bottom/1920.1080" />
     <state width="1921" height="360" key="GridCell.Tab.0.center" />
