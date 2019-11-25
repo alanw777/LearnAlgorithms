@@ -16,6 +16,15 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program.cs" t="Include" />
+      <e p="Sort" t="Include" />
+      <e p="StackAndQueue" t="Include" />
+      <e p="UnionFind" t="Include">
+        <e p="QuickFindUF.cs" t="Include" />
+        <e p="QuickUnionUF.cs" t="Include" />
+        <e p="UFTest.cs" t="Include" />
+        <e p="WeightedQU.cs" t="Include" />
+        <e p="WeightedQUPathCompress.cs" t="Include" />
+      </e>
       <e p="Utils.cs" t="Include" />
     </e>
   </component>
