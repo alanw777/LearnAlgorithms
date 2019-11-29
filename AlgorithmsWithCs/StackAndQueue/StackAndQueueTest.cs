@@ -1,3 +1,5 @@
+using System;
+
 namespace AlgorithmsWithCs.StackAndQueue
 {
     public class StackAndQueueTest
@@ -24,6 +26,7 @@ namespace AlgorithmsWithCs.StackAndQueue
 
         public static void Test()
         {
+            var random = new Random();
             var stack = new StackWithResizeArray<int>();
             Utils.Log(stack.IsEmpty().ToString());
             stack.Push(1);
@@ -92,6 +95,34 @@ namespace AlgorithmsWithCs.StackAndQueue
             {
                 queue.Dequeue();
             }
+            
+//            Utils.Log("Queue with two stack");
+//            var qs = new QueueWithTwoStack<int>();
+//            for (int i = 0; i < 5; i++)
+//            {
+//                qs.Enqueue(i);
+//            }
+//
+//           Utils.Log(qs.Dequeue().ToString());
+//           Utils.Log(qs.Dequeue().ToString());
+//           qs.Enqueue(5);
+//           qs.Enqueue(6);
+//           while (!qs.IsEmpty())
+//           {
+//               Utils.Log(qs.Dequeue().ToString());
+//           }
+            Utils.Log("max stack");
+            var maxStack = new MaxStack<int>();
+            for (int i = 0; i < 10; i++)
+            {
+                maxStack.Push(random.Next(0,10));
+            }
+            Utils.Log("max : " + maxStack.Max);
+            while (maxStack.Count>1)
+            {
+                Utils.Log(maxStack.Pop().ToString() + " : max = " + maxStack.Max);
+            }
+
         }
     }
 }
