@@ -26,6 +26,7 @@ namespace AlgorithmsWithCs.StackAndQueue
 
         public static void Test()
         {
+            Utils.Log("Stack and queue test");
             var random = new Random();
             var stack = new StackWithResizeArray<int>();
             Utils.Log(stack.IsEmpty().ToString());
@@ -122,7 +123,10 @@ namespace AlgorithmsWithCs.StackAndQueue
             {
                 Utils.Log(maxStack.Pop().ToString() + " : max = " + maxStack.Max);
             }
+            
+            Utils.Log(DijkstraDoubleStackAlgorithm.Calculate(new String[] {"(", "(", "(","1","+","(","2","*","3",")",")","-","1",")","/","2",")"}).ToString());
 
+            
         }
     }
 }
