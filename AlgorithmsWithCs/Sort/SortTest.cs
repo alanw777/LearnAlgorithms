@@ -7,7 +7,9 @@ namespace AlgorithmsWithCs.Sort
         public static void Test()
         {
             Utils.Log("Sort Test");
-//            var b = new List<int>() {30, -40, -20, -10, 40, 0, 10, 5};
+            var b = new List<int>() {30, -40, -20, -10, 40, 0, 10, 5,8,8,8,8,8,8,8,8,-8,-8,-8,-8,-8,-8};
+            QuickSort<int>.Sort(b);
+            Utils.Log(b);
 //            SelectionSort<int>.Sort(b);
 //            foreach (var item in b)
 //            {
