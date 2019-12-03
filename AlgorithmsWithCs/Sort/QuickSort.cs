@@ -7,9 +7,10 @@ namespace AlgorithmsWithCs.Sort
 {
     public class QuickSort<T> where T : IComparable<T>
     {
-        private static Random random = new Random();
+        private static Random random;
         public static void Sort(IList<T> list)
         {
+            random = new Random();
             if(list==null || list.Count<2) return;
             Sort(list,0,list.Count-1);
         }
