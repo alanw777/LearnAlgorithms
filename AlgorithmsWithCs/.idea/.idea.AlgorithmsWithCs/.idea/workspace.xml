@@ -2,22 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f639e545-bafa-4f20-b1a8-0b406ce0fbb9" name="Default Changelist" comment="" />
+    <list id="a7550618-0c59-4e81-94ec-67b86c8ed4a6" name="no commit" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmsWithCs/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmsWithCs/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmsWithCs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmsWithCs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmsWithCs.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsWithCs.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/AlgorithmsWithCs.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/AlgorithmsWithCs.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/AlgorithmsWithCs.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/AlgorithmsWithCs.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/AlgorithmsWithCs.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/AlgorithmsWithCs.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/AlgorithmsWithCs.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/AlgorithmsWithCs.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/AlgorithmsWithCs.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/AlgorithmsWithCs.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/UnionFind/WeightedQUPathCompress.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/UnionFind/WeightedQU.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/UnionFind/QuickUnionUF.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/UnionFind/QuickFindUF.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/UnionFind/UFTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StackAndQueue/QueueWithTwoStack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StackAndQueue/MaxStack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Misc/BinarySearch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Misc/ThreeSum.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sort/QuickSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sort/SortTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sort/QuickSelect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StackAndQueue/DijkstraDoubleStackAlgorithm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sort/InsertionSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UnionFind/QuickUnionUF.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sort/MergeSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UnionFind/WeightedQUPathCompress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UnionFind/QuickFindUF.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StackAndQueue/QueueWithLinkedList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UnionFind/WeightedQU.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StackAndQueue/StackWithResizeArray.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StackAndQueue/QueueWithResizeArray.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StackAndQueue/StackAndQueueTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StackAndQueue/StackWithLinkedList.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -30,14 +58,27 @@
         <option value="$PROJECT_DIR$/UnionFind/WeightedQUPathCompress.cs" />
         <option value="$PROJECT_DIR$/Misc/BinarySearch.cs" />
         <option value="$PROJECT_DIR$/Misc/ThreeSum.cs" />
+        <option value="$PROJECT_DIR$/StackAndQueue/DijkstraDoubleStackAlgorithm.cs" />
+        <option value="$PROJECT_DIR$/StackAndQueue/QueueWithTwoStack.cs" />
+        <option value="$PROJECT_DIR$/StackAndQueue/MaxStack.cs" />
+        <option value="$PROJECT_DIR$/StackAndQueue/StackAndQueueTest.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Sort/MergeSort.cs" />
+        <option value="$PROJECT_DIR$/Sort/QuickSort.cs" />
+        <option value="$PROJECT_DIR$/Sort/QuickSelect.cs" />
+        <option value="$PROJECT_DIR$/Sort/SortTest.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1Ttnokj5bUGJakLrgVe6KaIZlBK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,10 +112,74 @@
       </method>
     </configuration>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f639e545-bafa-4f20-b1a8-0b406ce0fbb9" name="Default Changelist" comment="" />
+      <changelist id="a7550618-0c59-4e81-94ec-67b86c8ed4a6" name="no commit" comment="" />
+      <created>1574737039307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574737039307</updated>
+      <workItem from="1574737040524" duration="662000" />
+      <workItem from="1574818936531" duration="62000" />
+      <workItem from="1574820147661" duration="3726000" />
+      <workItem from="1574905556846" duration="3512000" />
+      <workItem from="1574992086248" duration="2855000" />
+      <workItem from="1574994961869" duration="18000" />
+      <workItem from="1574994996495" duration="88000" />
+      <workItem from="1575251355011" duration="2469000" />
+      <workItem from="1575337950928" duration="7171000" />
+    </task>
+    <task id="LOCAL-00001" summary="queue with two stack and max stack">
+      <created>1574994774974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574994774974</updated>
+    </task>
+    <task id="LOCAL-00002" summary="quick select">
+      <created>1575342876475</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575342876475</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="queue with two stack and max stack" />
+    <MESSAGE value="quick select" />
+    <option name="LAST_COMMIT_MESSAGE" value="quick select" />
   </component>
   <component name="WindowStateProjectService">
     <state x="705" y="237" key="#Default" />

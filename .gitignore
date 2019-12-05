@@ -1,4 +1,5 @@
 .idea/
+<<<<<<< HEAD
 AlgorithmsWithCs/.idea/.idea.AlgorithmsWithCs/.idea/contentModel.xml
 AlgorithmsWithCs/.idea/.idea.AlgorithmsWithCs/.idea/workspace.xml
 AlgorithmsWithCs/obj/AlgorithmsWithCs.csproj.nuget.cache
@@ -13,5 +14,20 @@ AlgorithmsWithCs/.idea/.idea.AlgorithmsWithCs/.idea/workspace.xml
 AlgorithmsWithCs/obj/AlgorithmsWithCs.csproj.nuget.dgspec.json
 AlgorithmsWithCs/obj/AlgorithmsWithCs.csproj.nuget.g.props
 AlgorithmsWithCs/obj/AlgorithmsWithCs.csproj.nuget.g.targets
+AlgorithmsWithCs/obj/project.assets.json
+AlgorithmsWithCs/obj/project.packagespec.json
+AlgorithmsWithCs/.idea/.idea.AlgorithmsWithCs/.idea/contentModel.xml
+AlgorithmsWithCs/.idea/.idea.AlgorithmsWithCs/.idea/workspace.xml
+=======
+>>>>>>> parent of 4793b0a... Update .gitignore
+AlgorithmsWithCs/obj/AlgorithmsWithCs.csproj.nuget.dgspec.json
+AlgorithmsWithCs/obj/AlgorithmsWithCs.csproj.nuget.g.props
+AlgorithmsWithCs/obj/AlgorithmsWithCs.csproj.nuget.g.targets
+AlgorithmsWithCs/obj/Debug/netcoreapp2.1/AlgorithmsWithCs.assets.cache
+AlgorithmsWithCs/obj/Debug/netcoreapp2.1/AlgorithmsWithCs.csproj.CoreCompileInputs.cache
+AlgorithmsWithCs/obj/Debug/netcoreapp2.1/AlgorithmsWithCs.csproj.FileListAbsolute.txt
+AlgorithmsWithCs/obj/Debug/netcoreapp2.1/AlgorithmsWithCs.csprojAssemblyReference.cache
+AlgorithmsWithCs/obj/Debug/netcoreapp2.1/AlgorithmsWithCs.dll
+AlgorithmsWithCs/obj/Debug/netcoreapp2.1/AlgorithmsWithCs.pdb
 AlgorithmsWithCs/obj/project.assets.json
 AlgorithmsWithCs/obj/project.packagespec.json

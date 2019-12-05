@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\wp\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\wp\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AlgorithmsWithCs.-1416145517.00" t="ExcludeRecursive" />
-    <e p="D:\code\LearnAlgorithms\AlgorithmsWithCs" t="IncludeRecursive">
+    <e p="C:\Users\alan\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\alan\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AlgorithmsWithCs.-122421064.00" t="ExcludeRecursive" />
+    <e p="C:\Users\alan\Documents\GitHub\LearnAlgorithms\AlgorithmsWithCs" t="IncludeRecursive">
       <e p="AlgorithmsWithCs.csproj" t="IncludeRecursive" />
       <e p="AlgorithmsWithCs.sln" t="IncludeFlat" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Misc" t="Include">
         <e p="BinarySearch.cs" t="Include" />
+        <e p="MiscTest.cs" t="Include" />
         <e p="ThreeSum.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
@@ -20,12 +21,29 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program.cs" t="Include" />
-      <e p="Sort" t="Include" />
-      <e p="StackAndQueue" t="Include" />
+      <e p="Sort" t="Include">
+        <e p="InsertionSort.cs" t="Include" />
+        <e p="MergeSort.cs" t="Include" />
+        <e p="QuickSelect.cs" t="Include" />
+        <e p="QuickSort.cs" t="Include" />
+        <e p="SelectionSort.cs" t="Include" />
+        <e p="ShellSort.cs" t="Include" />
+        <e p="Shuffle.cs" t="Include" />
+        <e p="SortTest.cs" t="Include" />
+      </e>
+      <e p="StackAndQueue" t="Include">
+        <e p="DijkstraDoubleStackAlgorithm.cs" t="Include" />
+        <e p="MaxStack.cs" t="Include" />
+        <e p="QueueWithLinkedList.cs" t="Include" />
+        <e p="QueueWithResizeArray.cs" t="Include" />
+        <e p="QueueWithTwoStack.cs" t="Include" />
+        <e p="StackAndQueueTest.cs" t="Include" />
+        <e p="StackWithLinkedList.cs" t="Include" />
+        <e p="StackWithResizeArray.cs" t="Include" />
+      </e>
       <e p="UnionFind" t="Include">
         <e p="QuickFindUF.cs" t="Include" />
         <e p="QuickUnionUF.cs" t="Include" />
-        <e p="UFTest.cs" t="Include" />
         <e p="WeightedQU.cs" t="Include" />
         <e p="WeightedQUPathCompress.cs" t="Include" />
       </e>
