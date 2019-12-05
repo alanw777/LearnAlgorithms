@@ -7,7 +7,7 @@ namespace AlgorithmsWithCs
 {
     public static class Utils
     {
-        public static void Log(string text)
+        public static void Log(object text)
         {
             Console.WriteLine(text);
         }
