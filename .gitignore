@@ -1,3 +1,13 @@
 .idea/
 .obj/
 .bin/
+AlgorithmsWithCs/bin/Debug/netcoreapp2.1/AlgorithmsWithCs.deps.json
+AlgorithmsWithCs/bin/Debug/netcoreapp2.1/AlgorithmsWithCs.runtimeconfig.dev.json
+AlgorithmsWithCs/bin/Debug/netcoreapp2.1/AlgorithmsWithCs.runtimeconfig.json
+AlgorithmsWithCs/obj/AlgorithmsWithCs.csproj.nuget.dgspec.json
+AlgorithmsWithCs/obj/AlgorithmsWithCs.csproj.nuget.g.props
+AlgorithmsWithCs/obj/AlgorithmsWithCs.csproj.nuget.g.targets
+AlgorithmsWithCs/obj/Debug/netcoreapp2.1/AlgorithmsWithCs.AssemblyInfo.cs
+AlgorithmsWithCs/obj/Debug/netcoreapp2.1/AlgorithmsWithCs.csproj.FileListAbsolute.txt
+AlgorithmsWithCs/obj/project.assets.json
+AlgorithmsWithCs/obj/project.packagespec.json
