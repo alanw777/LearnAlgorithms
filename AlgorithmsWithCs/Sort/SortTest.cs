@@ -46,21 +46,42 @@ namespace AlgorithmsWithCs.Sort
 //            var kthLargest = QuickSelect<int>.FindKthLargest(list, k);
 //            Utils.Log(kthLargest.ToString());
 
-            var maxPQ = new MaxPriorityQueue<int>();
+//            var maxPQ = new MaxPriorityQueue<int>();
+//            for (int i = 0; i < 10; i++)
+//            {
+//                maxPQ.Insert(random.Next(1,11));
+//            }
+//
+//            foreach (var i in maxPQ)
+//            {
+//                Utils.Log(i);
+//            }
+//            
+//            foreach (var i in maxPQ)
+//            {
+//                Utils.Log(i);
+//            }
+            
+            var minPQ = new MinPriorityQueue<int>();
             for (int i = 0; i < 10; i++)
             {
-                maxPQ.Insert(random.Next(1,11));
+                minPQ.Insert(random.Next(1,11));
             }
 
-            foreach (var i in maxPQ)
+            while (!minPQ.IsEmpty())
             {
-                Utils.Log(i);
+                Utils.Log(minPQ.DelMin());
             }
-            
-            foreach (var i in maxPQ)
-            {
-                Utils.Log(i);
-            }
+
+//            foreach (var i in minPQ)
+//            {
+//                Utils.Log(i);
+//            }
+//            
+//            foreach (var i in minPQ)
+//            {
+//                Utils.Log(i);
+//            }
         }
     }
 }
