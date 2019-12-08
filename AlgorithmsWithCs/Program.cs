@@ -5,6 +5,7 @@ using System.Globalization;
 using AlgorithmsWithCs.Misc;
 using AlgorithmsWithCs.Sort;
 using AlgorithmsWithCs.StackAndQueue;
+using AlgorithmsWithCs.SymbolTable;
 
 namespace AlgorithmsWithCs
 {
@@ -14,8 +15,8 @@ namespace AlgorithmsWithCs
         {
 //            MiscTest.Test();
 //            StackAndQueueTest.Test();
-            SortTest.Test();
-            
+//            SortTest.Test();
+            STTest.Test();
         }
     }
 }

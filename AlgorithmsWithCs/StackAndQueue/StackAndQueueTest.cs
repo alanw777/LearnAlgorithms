@@ -4,7 +4,7 @@ namespace AlgorithmsWithCs.StackAndQueue
 {
     public class StackAndQueueTest
     {
-        public struct User
+        public struct User : IEquatable<User>
         {
             private static long count = 0;
             public long id;
@@ -21,6 +21,37 @@ namespace AlgorithmsWithCs.StackAndQueue
             public override string ToString()
             {
                 return $"name : {this.name} , score : {this.score},id : {this.id}";
+            }
+
+            public bool Equals(User other)
+            {
+                return id == other.id && name == other.name && score.Equals(other.score);
+            }
+
+            public override bool Equals(object obj)
+            {
+                return obj is User other && Equals(other);
+            }
+
+            public override int GetHashCode()
+            {
+                unchecked
+                {
+                    var hashCode = id.GetHashCode();
+                    hashCode = (hashCode * 397) ^ (name != null ? name.GetHashCode() : 0);
+                    hashCode = (hashCode * 397) ^ score.GetHashCode();
+                    return hashCode;
+                }
+            }
+
+            public static bool operator ==(User left, User right)
+            {
+                return left.Equals(right);
+            }
+
+            public static bool operator !=(User left, User right)
+            {
+                return !left.Equals(right);
             }
         }
 
